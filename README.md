@@ -16,7 +16,7 @@ Clone the repo
 
 ```terminal
 git clone https://github.com/adityapatil47/Blockchain-Project.git
-cd Supplychain-Medicine-blockchain
+cd .\Blockchain-Project\Supplychain-Medicine-blockchain
 ```
 
 Install `node_modules` using `npm`
