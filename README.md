@@ -8,7 +8,7 @@ Open ganache UI/cli and configure truffle-config.js file.
 
 ### Step 2
 
-Import the ganache local blockchain accounts in metamask using the mnemonic provided.
+Import the ganache local blockchain accounts in metamask using each account's private key
 
 ### Step 3
 
