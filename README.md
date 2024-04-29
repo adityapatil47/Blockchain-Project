@@ -15,8 +15,14 @@ Import the ganache local blockchain accounts in metamask using the mnemonic prov
 Clone the repo
 
 ```terminal
-git clone https://github.com
+git clone https://github.com/adityapatil47/Blockchain-Project.git
 cd Supplychain-Medicine-blockchain
+```
+
+Install `node_modules` using `npm`
+
+```terminal
+npm install
 ```
 
 ### Step 4
